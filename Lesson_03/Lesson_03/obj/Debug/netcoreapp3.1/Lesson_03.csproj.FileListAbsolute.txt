@@ -1,0 +1,13 @@
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.csprojAssemblyReference.cache
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.AssemblyInfoInputs.cache
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.AssemblyInfo.cs
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.csproj.CoreCompileInputs.cache
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.exe
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.deps.json
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.runtimeconfig.json
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.runtimeconfig.dev.json
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.dll
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\bin\Debug\netcoreapp3.1\Lesson_03.pdb
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.dll
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.pdb
+F:\p\geekbrains\Lessons\Lesson_03\Lesson_03\Lesson_03\obj\Debug\netcoreapp3.1\Lesson_03.genruntimeconfig.cache
