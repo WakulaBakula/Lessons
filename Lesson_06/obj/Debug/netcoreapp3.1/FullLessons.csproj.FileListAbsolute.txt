@@ -1,0 +1,13 @@
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.exe
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.deps.json
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.runtimeconfig.json
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.runtimeconfig.dev.json
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.dll
+C:\Users\korneev.i\source\repos\FullLessons\bin\Debug\netcoreapp3.1\FullLessons.pdb
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.csprojAssemblyReference.cache
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.AssemblyInfoInputs.cache
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.AssemblyInfo.cs
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.csproj.CoreCompileInputs.cache
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.dll
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.pdb
+C:\Users\korneev.i\source\repos\FullLessons\obj\Debug\netcoreapp3.1\FullLessons.genruntimeconfig.cache
